@@ -1,0 +1,1 @@
+I am learning Python from basics to advanced, aiming to build a strong foundation in programming. Throughout this journey, I will explore core concepts, problem-solving techniques, and eventually create projects ranging from beginner to advanced levels. This learning path will help me develop real-world applications and sharpen my coding skills step by step.
